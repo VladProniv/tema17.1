@@ -1,0 +1,10 @@
+body{background-color: aqua;}
+h1{font-family: cursive;}
+.photo{position: fixed;
+width: 60%;
+left: 39%;}
+li{display: inline-block;
+font-family: cursive;
+border: 1px solid black;
+background-color: skyblue;
+list-style-type: none;}
